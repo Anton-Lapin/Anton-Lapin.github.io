@@ -1,0 +1,58 @@
+body {
+	background-color: #e2e2e2;
+}
+
+.block1 {
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+
+.header {
+	box-sizing: border-box;
+	position: relative;
+	
+	height: 65px;
+	background-color: #fff;
+	padding-left: 98px;
+	
+}
+
+.logo img {
+	height: 60px;
+}
+
+.navigation {
+	position: absolute;
+	top: 10px;
+	right: 2%;
+}
+
+.navigation li {
+	display: inline-block;
+}
+
+.navigation a {
+		margin-right: 10px;
+		padding: 15px 5px;
+		color: #6a6a6a;
+  text-decoration: none;
+  font-family: "Arial", sans-serif;
+}
+
+.navigation a:hover {
+		background-color: yellow;
+		color: #000;
+}
+
+.content {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.content p {
+	padding-top: 80px;
+	text-align: justify;
+	font-family: "Arial", sans-serif;
+}
