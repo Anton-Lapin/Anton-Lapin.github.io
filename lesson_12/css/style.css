@@ -1,0 +1,45 @@
+.header {
+	margin: 60px auto;
+}
+
+span {
+	display: block;
+	margin-top: 1em;
+}
+
+.form {
+	border: 5px solid #472cc3;
+	padding: 45px 30px;
+}
+
+p {
+	font-weight: 900;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.container {
+	margin-bottom: 60px;
+}
+
+input {
+	margin-bottom: 15px;
+}
+
+.feature {
+	height: 160px;
+	margin-top: 60px;
+}
+
+.feature p {
+	font-weight: normal;
+}
+
+.clients-header {
+	margin-bottom: 60px;
+}
+
+.client {
+	text-align: center;
+	margin-bottom: 20px;
+}
