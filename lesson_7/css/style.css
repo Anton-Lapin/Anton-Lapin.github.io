@@ -1,0 +1,99 @@
+* {
+	box-sizing: border-box;
+}
+
+.section {
+	text-align: center;
+}
+
+.header {
+	margin-top: 120px;
+	text-align: center;
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+	color: #4e4e4e;
+	line-height: 1.5em;
+}
+
+.header span {
+	display: block;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 60px;
+}
+
+.form {
+	border: 5px solid #2727d9;
+	text-align: center;
+	padding: 35px 15px;
+	margin-left: 35px;
+}
+
+.form p {
+	margin-bottom: 40px;
+	font-family: Tahoma, sans-serif;
+	font-weight: 900;
+	color: #4e4e4e;
+}
+
+.form input {
+	display: block;
+	margin-top: 10px;
+	width: 300px;
+	height: 50px;
+	padding-left: 15px;
+}
+
+.btn {
+	display: inline-block;
+	width: 300px;
+	height: 50px;
+	margin-top: 10px;
+	border: none;
+	background-color: #2727d9;
+	color: #fff;
+	font-family: Tahoma, sans-serif;
+}
+
+.section h2 {
+	margin-top: 60px;
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+	color: #4e4e4e;
+}
+
+.features {
+	display: inline-block;
+	margin-top: 100px;
+	margin-left: 110px;
+	width: 100px;
+	margin-bottom: 50px;
+}
+
+.features p {
+	font-family: Tahoma, sans-serif;
+	font-size: 16px;
+	color: #4e4e4e;
+}
+
+.clients-header {
+	margin-top: 100px;
+	margin-bottom: 80px;
+	font-family: Tahoma, sans-serif;
+	font-weight: 900;
+	color: #4e4e4e;
+	font-size: 30px;
+}
+
+.clients img {
+	display: inline-block;
+	height: 215px;
+	width: 215px;
+	margin-left: 25px;
+	margin-bottom: 40px;
+}
