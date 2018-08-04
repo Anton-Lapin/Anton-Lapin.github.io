@@ -1,0 +1,19 @@
+h1 {
+	text-transform: uppercase;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.img {
+	text-align: center;
+}
+
+img {
+	height: 150px;
+}
+
