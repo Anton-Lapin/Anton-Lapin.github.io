@@ -1,0 +1,46 @@
+/* Colors */
+
+@btn-color: #fbb202;
+@icon-color: #46b713;
+@text: #292929;
+@light: #fff;
+
+/* Typography */
+
+html {
+	font-size: 10px;
+}
+
+.header {
+	height: 7rem;
+	margin-top: 3rem;
+}
+
+.phone-link {
+	display: inline-block;
+	line-height: 7rem;
+	color: @text;
+	font-weight: 900;
+	font-size: 1.5rem;
+	text-decoration: none;
+}
+
+.wrap {
+	display: table;
+	height: 7rem;
+	width: 100%;
+	&-block {
+		display: table-cell;
+		vertical-align: middle;
+		& .button {
+				width: 225px;
+				height: 50px;
+				background-color: @btn-color;
+				border: none;
+				border-radius: 8px;
+				text-transform: uppercase;
+				font-size: 1rem;
+				color: @light;
+		}
+	}
+}
