@@ -15,3 +15,5 @@
 [Урок 9](https://anton-lapin.github.io/lesson_9/ "применение Bootstrap2") - применение Bootstrap часть 2
 
 [Урок 12](https://anton-lapin.github.io/lesson_12/ "Работа с Github") - создание репозитория на GitHub
+
+[Урок 13](https://anton-lapin.github.io/lesson_12/ "Pixel Perfect") - Практическое занятие: метод верстки Pixel Perfect.
