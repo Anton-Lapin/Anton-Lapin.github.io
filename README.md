@@ -17,3 +17,5 @@
 [Урок 12](https://anton-lapin.github.io/lesson_12/ "Работа с Github") - создание репозитория на GitHub
 
 [Урок 13](https://anton-lapin.github.io/lesson_13/ "Pixel Perfect") - Практическое занятие: метод верстки Pixel Perfect.
+
+[Урок 14](https://anton-lapin.github.io/lesson_14/ "Работа с реальным макетом 1 часть") - Практическое занятие: Работа с реальным макетом часть 1
